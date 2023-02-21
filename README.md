@@ -17,3 +17,7 @@ Este repositório é uma coleção de cursos gratuitos de programação para ini
 - Outros recursos
   - Livros de programação gratuitos
   - Tutoriais para iniciantes
+
+
+- EuCapacito
+  - [Inteligência artificial e Computacional](https://www.eucapacito.com.br/curso-ec/inteligencia-artificial-e-computacional)
