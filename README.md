@@ -1,6 +1,7 @@
 # Roadmap de Programação Grátis
 Este repositório é uma coleção de cursos gratuitos de programação para iniciantes. Inclui recursos de aprendizado em vídeo, tutoriais e livros organizados por nível de habilidade e tópico. Nosso objetivo é fornecer uma trilha acessível e útil para quem quer aprender a programar e se desenvolver na carreira de tecnologia.
 
+
 ## [EuCapacito](https://www.eucapacito.com.br/cursos)
 <p>O Instituto IT Mídia, através da plataforma Eu Capacito, está oferecendo capacitações ministradas pela FIAP, IBM, IDP, Microsoft e afins. Toda essa junção resultou em cinco cursos gratuitos:</p>
 
@@ -27,6 +28,14 @@ Este repositório é uma coleção de cursos gratuitos de programação para ini
   - [Business Intelligence (BI)](https://eucapacito.com.br/curso-ec/business-intelligence-bi)
   - [Blockchain Advanced](https://www.eucapacito.com.br/curso-ec/blockchain-advanced)
   - [Big Data & Analytics](https://eucapacito.com.br/curso-ec/big-data-analytics)
+
+
+
+## [Bolsas Santander Idiomas](https://educacao-executiva.fgv.br/cursos/gratuitos)
+<p>O Santander está oferecendo 1 milhão de bolsas de estudos para cursos de inglês em parceria com a English Live, escola de inglês online focada no ensino para adultos. </p>
+
+  - [Santander English Live 2023](https://app.becas-santander.com/pt/program/bolsas-santander-idiomas-santander-english-live-2023?category=LANGUAGE&track=search)
+
 
 ## [FGV](https://educacao-executiva.fgv.br/cursos/gratuitos)
 <p>A FGV possui uma variedade de cursos gratuitos em diversas áreas de atuação por conta da parceria com OEG – Open Education Global. </p>
@@ -109,6 +118,14 @@ Este repositório é uma coleção de cursos gratuitos de programação para ini
   - [Edição e tratamento de imagens](https://moocs.ggte.unicamp.br/course/edicaoetratamento/intro)
   - [UX e UI Design](https://moocs.ggte.unicamp.br/course/ux-e-ui-design/intro)
   - [JavaScript: Conceitos e bibliotecas](https://moocs.ggte.unicamp.br/course/javascript-conceitos-e-bibliotecas/intro)
+  
+  
+  ## [Universidade Federal de Viçosa (UFV)](https://www.cead.ufv.br/site/)
+<p>Os cursos gratuitos da UFV têm carga horária variada, podendo ter de 20 a 60 horas de duração, a depender da capacitação. Além disso, cada curso tem também um prazo para a sua finalização após o estudante iniciar as aulas.</p>
+
+  - [CURSO BÁSICO DE LINUX](https://portalead.cead.ufv.br/site/curso/curso-basico-de-linux/)
+  - [CURSO DE PROGRAMAÇÃO EM FORTRAN](https://portalead.cead.ufv.br/site/curso/programacao-em-linguagem-fortran/)
+
   
   
   ## Categorias
