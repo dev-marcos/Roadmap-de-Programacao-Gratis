@@ -151,6 +151,8 @@ Este repositório é uma coleção de cursos gratuitos de programação para ini
   - [CURSO BÁSICO DE LINUX](https://portalead.cead.ufv.br/site/curso/curso-basico-de-linux/)
   - [CURSO DE PROGRAMAÇÃO EM FORTRAN](https://portalead.cead.ufv.br/site/curso/programacao-em-linguagem-fortran/)
 
+  ## [XP Educação](https://www.xpeducacao.com.br/)
+  - [Desenvolvedor Python](https://www.xpeducacao.com.br/curso-gratuito-python)
   
   
   ## Categorias
