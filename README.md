@@ -31,6 +31,18 @@ Este repositório é uma coleção de cursos gratuitos de programação para ini
   - [Big Data & Analytics](https://eucapacito.com.br/curso-ec/big-data-analytics)
 
 
+
+## [Google]()
+<p></p>
+
+  - [Curso avançado do Google Analytics](https://analytics.google.com/analytics/academy/course/7)
+  - [Google Cloud Computing Foundations: Cloud Computing Fundamentals](https://www.cloudskillsboost.google/course_templates/153)
+  - [Google Ads Search Certification](https://skillshop.exceedlms.com/student/path/18128-google-ads-search-certification)
+  - [Visualize data on Google Maps Platform](https://developers.google.com/learn/pathways/maps-visualize-data?hl=en)
+
+
+
+
 ## [Bolsas Santander](https://www.becas-santander.com/pt_pt/index.html)
 <p>O Santander está oferecendo 1 milhão de bolsas de estudos para cursos de inglês em parceria com a English Live, escola de inglês online focada no ensino para adultos. </p>
 
