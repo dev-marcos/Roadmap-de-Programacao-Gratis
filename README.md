@@ -2,6 +2,7 @@
 Este repositório é uma coleção de cursos gratuitos de programação para iniciantes. Inclui recursos de aprendizado em vídeo, tutoriais e livros organizados por nível de habilidade e tópico. Nosso objetivo é fornecer uma trilha acessível e útil para quem quer aprender a programar e se desenvolver na carreira de tecnologia.
 
 
+
 ## [EuCapacito](https://www.eucapacito.com.br/cursos)
 <p>O Instituto IT Mídia, através da plataforma Eu Capacito, está oferecendo capacitações ministradas pela FIAP, IBM, IDP, Microsoft e afins. Toda essa junção resultou em cinco cursos gratuitos:</p>
 
